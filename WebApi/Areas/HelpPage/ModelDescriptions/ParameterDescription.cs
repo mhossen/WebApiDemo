@@ -1,9 +1,8 @@
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
 namespace WebApi.Areas.HelpPage.ModelDescriptions
 {
-    public class ParameterDescription
+  public class ParameterDescription
     {
         public ParameterDescription()
         {
